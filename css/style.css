@@ -92,14 +92,15 @@ input[type="submit"] {
     cursor: pointer;
 }
 
-input[type="submit"]:hover{
+input[type="submit"]:hover {
     background-color: #1b223c;
     transition: .5s;
 }
 
 /* redes sociais */
 
-#social-container, #social-container p {
+#social-container,
+#social-container p {
     margin-bottom: 20px;
 }
 
