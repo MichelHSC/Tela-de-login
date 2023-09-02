@@ -107,7 +107,7 @@ input[type="submit"]:hover {
     height: 40px;
     width: 40px;
     border-radius: 50%;
-    line-height: 40px;
+    line-height: 45px;
     color: #fff;
     margin: 0 5px;
     cursor: pointer;
@@ -119,6 +119,13 @@ input[type="submit"]:hover {
 
 .fa-linkedin {
     background-color: #0077b5;
+}
+.fa-twitter{
+    background-color: #00acee;
+}
+
+.fa-twitch{
+    background-color: #6441a5 ;
 }
 
 /* registrar */
